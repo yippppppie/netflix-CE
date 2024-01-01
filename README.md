@@ -1,2 +1,5 @@
 # netflix-CE
-Roblox Cheat Engine By imposs   [This was made by imposs i just updated it]
+Roblox Cheat Engine By imposs
+Original Server: https://discord.gg/byefron
+
+This was made by Aspect
